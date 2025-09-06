@@ -12,10 +12,10 @@
 <img src="https://media.tenor.com/8hHHxvAr1LIAAAAj/chiikawa-usagi.gif" height="120" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/charles-gian-santos-394507368/)
+[![](https://img.shields.io/badge/codedex-FFFF00)](https://www.codedex.io/@JohnnyStormy)
+[![](https://img.shields.io/badge/steam-000000)](https://steamcommunity.com/profiles/76561199212465533/)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/hsr/801890423/)
 </div>
 <!--
 
