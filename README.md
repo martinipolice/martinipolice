@@ -1,14 +1,13 @@
 <div align="center">
-<img src="https://image-5.uhdpaper.com/wallpaper/giselle-aespa-dirty-work-phone-wallpaper-4k-uhdpaper.com-583@5@g.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://github.com/martinipolice/martinipolice/blob/main/giselle-aespa-dirty-work-phone-wallpaper-4k-uhdpaper.com-583%405%40g.jpg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A607&width=435&lines=yo!+it's+me%2C+martinipolice!" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
+    💼 BSCS @ UPLB • Freshman
+    💻 Beginner in Python
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
+<img src="https://streak-stats.demolab.com?user=martini%20police&theme=dark&background=EB830900&hide_longest_streak=true" />
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
