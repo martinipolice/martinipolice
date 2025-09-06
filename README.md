@@ -9,7 +9,7 @@
 </pre>
 <img src="https://streak-stats.demolab.com?user=martini%20police&theme=dark&background=EB830900&hide_longest_streak=true" />
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.tenor.com/8hHHxvAr1LIAAAAj/chiikawa-usagi.gif" height="120" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
