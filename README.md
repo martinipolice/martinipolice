@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/martinipolice/martinipolice/blob/main/giselle-aespa-dirty-work-phone-wallpaper-4k-uhdpaper.com-583%405%40g.jpg?raw=true" width="25%" align="right" alt="banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A607&width=435&lines=yo!+it%27s+me%2C+martinipolice!" width="70%" alt="Typing SVG" />
 
 <br><br>
 
 <p>
-💼 BSCS @ UPLB • Freshman<br>
-💻 Beginner in Python<br>
-🎮 Music • Games • Anime • Code • Art
+💼 BSCS @ UPLB • Sophomore<br>
+💻 Python, C, Java, R, CSS, JS, HTML<br>
 </p>
 
 <img src="https://streak-stats.demolab.com?user=martinipolice&theme=dark&background=EB830900&hide_longest_streak=true" alt="GitHub streak" />
