@@ -1,19 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A607&width=435&lines=yo!+it%27s+me%2C+martinipolice!" width="70%" alt="Typing SVG" />
-
-<br><br>
-
-<p>
-💼 BSCS @ UPLB • Sophomore<br>
-💻 Python, C, Java, R, CSS, JS, HTML<br>
-</p>
-
-<img src="https://streak-stats.demolab.com?user=martinipolice&theme=dark&background=EB830900&hide_longest_streak=true" alt="GitHub streak" />
-
-<br><br>
-
-<img src="https://media.tenor.com/8hHHxvAr1LIAAAAj/chiikawa-usagi.gif" height="120" alt="Usagi" />
 
 <br><br>
 
