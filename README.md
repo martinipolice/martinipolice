@@ -1,4 +1,11 @@
 <div align="center">
+  █   █  ███  ████  █████ ███ █   █ ███ ████   ███  █     ███  ███  █████   
+██ ██░█ ░░█ █░░░█  ░█░░░ █░░██  █░ █░░█░░░█ █ ░░█ █░     █░░█ ░░░ █░░░░░  
+█░█ █░█████░████░░  █░░░░█░░█░█ █░░█░░████░░█░ ░█░█░░    █░░█░ ░░░████░░░ 
+█░░░█░█░░░█░█░░█░ ░ █░░  █░░█░░██░░█░░█░░░░ █░░ █░█░░    █░░█░░   █░░░░   
+█░░ █░█░░░█░█░░░█░  █░░ ███░█░░ █░███░█░░░░░ ███ ░█████ ███░ ███  █████░  
+ ░░  ░░░░  ░░░░  ░   ░░  ░░░ ░░  ░░░░░ ░░     ░░░ ░░░░░░ ░░░  ░░░  ░░░░░  
+  ░   ░ ░   ░ ░   ░   ░   ░░░ ░   ░ ░░░ ░      ░░░  ░░░░░ ░░░  ░░░  ░░░░░ 
 <br><br>
 <a href="https://www.linkedin.com/in/charles-gian-santos-394507368/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://steamcommunity.com/profiles/76561199212465533/"><img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="Steam" /></a>
